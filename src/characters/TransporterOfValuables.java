@@ -1,6 +1,6 @@
 package characters;
 
-import Log.Log;
+import log.Log;
 import locations.deposit.DepositADT;
 import locations.treasure.Guard;
 

@@ -7,9 +7,6 @@ public class DepositADT {
 
     public DepositADT() { deposit = new DepositArray(); }
 
-    //public void enqueue()
-    //public void dequeue()
-
     public void addValue(Valuable valuable) { deposit.addValuable(valuable);}
 
     public Valuable[] getValuables() { return deposit.getValuables(); }

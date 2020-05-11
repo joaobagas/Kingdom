@@ -1,4 +1,4 @@
-package Log;
+package log;
 
 public class Log {
     private static Log log;

@@ -1,6 +1,6 @@
 package characters;
 
-import Log.Log;
+import log.Log;
 import locations.treasure.Guard;
 
 public class Accountant implements Runnable {

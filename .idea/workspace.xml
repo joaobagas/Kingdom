@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="756bafb0-0463-4917-9542-cb0eb8e24186" name="Default Changelist" comment="" />
+    <list default="true" id="756bafb0-0463-4917-9542-cb0eb8e24186" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDJ Assignment 4/Log/Log.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SDJ Assignment 4/Log/Log.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDJ Assignment 4/META-INF/SDJ Assignment 4.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDJ Assignment 4/characters/Accountant.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SDJ Assignment 4/characters/Accountant.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDJ Assignment 4/characters/King.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SDJ Assignment 4/characters/King.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDJ Assignment 4/characters/Miner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SDJ Assignment 4/characters/Miner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDJ Assignment 4/characters/TransporterOfValuables.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SDJ Assignment 4/characters/TransporterOfValuables.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDJ Assignment 4/locations/deposit/DepositADT.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SDJ Assignment 4/locations/deposit/DepositADT.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDJ Assignment 4/locations/treasure/Guard.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SDJ Assignment 4/locations/treasure/Guard.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Log/Log.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Log/Log.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/characters/Accountant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/characters/Accountant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/characters/King.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/characters/King.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/characters/Miner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/characters/Miner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/characters/TransporterOfValuables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/characters/TransporterOfValuables.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/locations/deposit/DepositADT.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/locations/deposit/DepositADT.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +53,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Ass3" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RunDashboard">
@@ -89,10 +105,26 @@
       <workItem from="1588951671600" duration="3425000" />
       <workItem from="1588967742573" duration="995000" />
       <workItem from="1589010104043" duration="2367000" />
+      <workItem from="1589059983005" duration="299000" />
+      <workItem from="1589188544606" duration="129000" />
+      <workItem from="1589188714402" duration="122000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

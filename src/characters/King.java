@@ -1,7 +1,7 @@
 package characters;
 
 import locations.treasure.Guard;
-import Log.Log;
+import log.Log;
 
 public class King implements Runnable {
     private Guard treasure;
